@@ -1,3 +1,4 @@
+#summary Frequently asked questions
 = Frequently Asked Questions =
 
 == Why is there no full screen option? ==
