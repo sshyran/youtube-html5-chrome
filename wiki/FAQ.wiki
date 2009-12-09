@@ -1,5 +1,3 @@
-#summary FAQ
-
 = Frequently Asked Questions =
 
 == Why is there no full screen option? ==
