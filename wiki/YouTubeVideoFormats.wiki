@@ -1,6 +1,4 @@
-#summary One-sentence summary of this page.
-
-= Formats available for YouTube videos =
+#summary Formats available for YouTube? videos
 
 (From the [http://en.wikipedia.org/wiki/YouTube YouTube Article @ Wikipedia])
 
