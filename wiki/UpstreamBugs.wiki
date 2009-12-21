@@ -1,5 +1,8 @@
 #summary Bugs in Chrome/Chromium which are affecting features and/or performance
 
+* [http://code.google.com/p/chromium/issues/detail?id=16482 Chromium Issue #16482]
+  * <video autobuffer> not respected
+
 * [http://code.google.com/p/chromium/issues/detail?id=16735 Chromium Issue #16735]
   *  HTML 5 Video Full screen - Feature Enhancement 
 
