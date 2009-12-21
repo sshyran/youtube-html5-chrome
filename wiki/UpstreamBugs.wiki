@@ -1,0 +1,5 @@
+#summary Bugs in Chrome/Chromium which are affecting features and/or performance
+
+* [http://code.google.com/p/chromium/issues/detail?id=20274 Chromium Issue #20274]
+  *  Videos without durations only play a single frame 
+  *  Affects: video formats where FFmpeg won't return the duration (i.e., flv)
