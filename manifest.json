@@ -1,10 +1,9 @@
 {
   "name": "YouTube HTML5-ifier",
-  "version": "1.2",
+  "version": "1.1.5",
   "description": "Replaces the standard YouTube flash player with an HTML5 video element.",
   "icons": { "48": "images/logo_48.png" },
-  "background_page": "background.html",
-	"content_scripts": [
+  "content_scripts": [
     {
       "matches": ["http://www.youtube.com/watch*"],
       "js": ["content-youtube-watch.js"],
@@ -14,14 +13,6 @@
       "matches": ["http://www.youtube.com/user/*"],
       "js": ["content-youtube-watch.js"],
       "run_at": "document_end"
-    }		
-  ],
-	"page_action": {
-    "default_icon": "images/filmreel_19.png",
-    "default_title": "YouTube Options",
-    "popup": "page_action.html"
-  },
-  "permissions": [
-    "http://www.youtube.com/watch*"
+    }
   ]
 }
